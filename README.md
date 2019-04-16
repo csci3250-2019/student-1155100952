@@ -24,3 +24,4 @@ It is the ***first time*** I use GitHub
 | A | ATT ATC ATA ATG | ACT ACC ACA ACG | AAT AAC AAA AAG | AGT AGC AGA AGG |
 | G | GTT GTC GTA GTG | GCT GCC GCA GCG | GAT GAC GAA GAG | GGT GGC GGA GGG |
 
+![Project2](/Project2.png)
